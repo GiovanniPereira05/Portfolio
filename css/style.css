@@ -250,6 +250,9 @@ h2 {
     line-height: 1.8;
 }
 
+
+/* Tecnologias */
+
 .tech-grid {
     display: grid;
 
@@ -307,6 +310,8 @@ h2 {
     margin-bottom: 30px;
     color: var(--text-color);
 }
+
+/* Projetos */
 
 .project-grid {
     display: grid;
@@ -435,6 +440,8 @@ h2 {
 .project-link:hover {
     color: #f87171;
 }
+
+/* Conquistas/Certificados */
 
 .achievement-grid {
     display: grid;
